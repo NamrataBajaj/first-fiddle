@@ -5,8 +5,8 @@ function Contact() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 pt-5">
-                        <h1 className="pt-5">Know About <br></br>
-                        <span className="text-warning">Our Story</span></h1>
+                        <h1 className="pt-5 white"><b>Know About <br></br>
+                        <span className="text-warning">Our Story</span></b></h1>
                         <p>With an ongoing legacy spanning across an impressive 24 years, First Fiddle Restaurants started as a fine-dine venture of a 19-year-old Dyslexic college dropout, with the sole dream of entertaining and offering mouthwatering meals to patrons.</p>
                     </div>
                     <div className="col-md-6">
@@ -22,19 +22,18 @@ function Contact() {
                     <img src="https://www.firstfiddle.in/_next/image?url=%2Fimages%2Fhome%2F7.jpg&w=640&q=75" alt="" className="img-fluid"></img>
                     </div>
                     <div className="col-md-6 pt-5">
-                    <h1 className="pt-5">The Game Changer <br></br>
-                        <span className="text-warning">Priyank Sukhija</span></h1>
+                    <h1 className=" wait pt-5"><b>The Game <span className="text-warning">Changer <br></br></span><span className="warning"><i>Priyank Sukhija</i></span></b></h1>
                         <p>With over 30 restaurants in 23 years under his belt, the prolific restaurateur Priyank Sukhija has become somewhat of a legend in the industry, starting his journey at a mere age of 19. Priyank was the first in his family to venture into business, hailing from a family of lawyers, going on to create an empire in F&B. Following his heart and tongue through his F&B career, Priyank has successfully created some of the most talked-about brands in the industry - Diablo, Lord of the Drinks, Plum by Bent Chair, Lazeez Affaire, Tamasha, The Flying Saucer Cafe, and many more.</p>
                     </div>
                 </div>
             </div>
         </section>
         <section className="bg-black text-white pt-5">
-            <h1 className="text-center pt-5">EXISTING <span className="text-warning">FOOTPRINTS</span></h1>
+            <h1 className="text-center pt-5"><b>EXISTING <span className="text-warning">FOOTPRINTS</span></b></h1>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6">
-                            <img src="https://www.firstfiddle.in/_next/image?url=%2Fimages%2Ffranchise%2Fmap.png&w=640&q=75" alt="" className="img-fluid"></img>
+                            <img src="https://www.firstfiddle.in/_next/image?url=%2Fimages%2Ffranchise%2Fmap.png&w=640&q=75" alt="flip" className="img-fluid"></img>
                         </div>
                         <div className="col-md-2">
                             <h5 className="pt-3 text-warning">DIABLO</h5>
@@ -92,7 +91,7 @@ function Contact() {
                 </div>
             </section>
             <section className="bg-black text-white pt-5">
-                <h1 className="text-center pt-5">UPCOMING <span className="text-warning">FOOTPRINTS</span></h1>
+                <h1 className="text-center pt-5"><b>UPCOMING <span className="text-warning">FOOTPRINTS</span></b></h1>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-2">
@@ -140,7 +139,7 @@ function Contact() {
                             </ul>
                         </div>
                         <div className="col-md-6">
-                            <img src="https://www.firstfiddle.in/_next/image?url=%2Fimages%2Ffranchise%2Fmap.png&w=640&q=75" alt="image" className="img-fluid"></img>
+                            <img src="https://www.firstfiddle.in/_next/image?url=%2Fimages%2Ffranchise%2Fmap.png&w=640&q=75" alt="imageing" className="img-fluid which"></img>
                         </div>
                         
                     </div>
@@ -156,8 +155,8 @@ function Contact() {
                             <img src="https://www.firstfiddle.in/_next/image?url=%2Fimages%2Fabout%2F5.jpg&w=640&q=75" alt="" className="img-fluid pt-3"></img>
                         </div>
                         <div className="col-md-4">
-                            <h1 className="pt-3 text-white ">Meet The <br></br>
-                               <span className="text-warning"> Team</span></h1>
+                            <h1 className="pt-3 white "><b>Meet The <br></br>
+                               <span className="text-warning"> Team</span></b></h1>
                                <p className="text-white">Without question, it is the team behind the<br></br> brands that make it a favourite for its guests.<br></br> Here's a look into those who made the dream <br></br> work.</p>
                         </div>
                         <div className="col-md-4">

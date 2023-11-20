@@ -6,8 +6,8 @@ function Details() {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 mt-5">
-                            <h1>KNOW MORE <br></br>
-                                <span className="text-warning">CONTACT US </span></h1>
+                            <h1><b>KNOW MORE <br></br>
+                                <span className="text-warning">CONTACT US </span></b></h1>
                             <h4 className="text-warning">Address</h4>
                             <p className="item">S-357 2nd floor, Block S, Panchsheel Park South,<br></br> Panchsheel Park, New <br></br> Delhi, Delhi 110017</p>
                             <h4 className="text-warning">Enquiry</h4>
@@ -42,8 +42,8 @@ function Details() {
                 </div>
             </section>
             <section className="bg-black text-light pt-5">
-                <h1 className="text-center pt-5">Ask Us<br></br>
-                   <span className="text-warning">Anything</span> </h1>
+                <h1 className="text-center pt-5"><b>Ask Us<br></br>
+                   <span className="text-warning">Anything</span></b></h1>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4 invest">

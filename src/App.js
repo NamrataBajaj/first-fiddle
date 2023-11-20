@@ -13,42 +13,10 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <>
-      {/* <Navbar />
-       <Home/>
-       <Contact /> 
-       <Mapped />
-      <Team/>
-      <Brand/>
-      <Brand1/> 
-      <Press/>
-      <Press1/> 
-      <Details/> 
-       <Cards/>
-       <Footer/> */}
-
-
-      {/* HGJGVHGHJ */}
-
-      {/* <Details/> 
-       <Cards/> */}
-
-      {/* <Press/>
-      <Press1/>  */}
-
-      {/* <Brand/>
-      <Brand1/>  */}
-
-      {/* <Contact /> 
-       <Mapped />
-      <Team/> */}
-
-      {/* <Footer/> */}
-
-
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path='/Home' element={<Home />} />
+          <Route path='' element={<Home />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='/Brand' element={<Brand />} />
           <Route path='/Press' element={<Press />} />

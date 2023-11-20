@@ -5,8 +5,8 @@ function Brand() {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 pt-5">
-                            <h1 className="pt-5">Know About<br></br>
-                               <span className="text-warning pt-3">Our Brands</span> </h1>
+                            <h1 className="pt-5"><b>Know About<br></br>
+                               <span className="text-warning pt-3">Our Brands</span></b></h1>
                                <p>With over 15+ brands and 35+ outlets across India, First Fiddle <br></br> Restaurants has beloved brand across most Tier 1 and Tier 2 cities!</p>
                         </div>
                         <div className="col-md-6 ">
@@ -17,7 +17,7 @@ function Brand() {
                 </div>
             </section>
             <section className="bg-black text-white">
-        <h1 className="text-center pt-5">OUR <span className="text-warning"> BRANDS</span></h1>
+        <h1 className="text-center pt-5"><b>OUR <span className="text-warning"> BRANDS</span></b></h1>
             <div className="container">
                 <div className="row">
                     <div className="col-md-4 pt-4">
